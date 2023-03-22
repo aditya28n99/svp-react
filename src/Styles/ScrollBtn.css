@@ -1,0 +1,27 @@
+
+#topup{
+    width: 40px;
+    height: 35px;
+    background-color: #ff5821;
+    color: #fff9f7;
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #topup i{
+    margin: 10px;
+  }
+  /* .fade-effect{
+    opacity: 0;
+    display: none;
+  }
+  .faded-In{
+    display: block;
+    opacity: 1;
+    transition: all 2s ease;
+  } */
+  

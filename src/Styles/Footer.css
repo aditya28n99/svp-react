@@ -1,0 +1,36 @@
+/* Terms and privacy */
+
+#tearms-privacy{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  #tearms-privacy div a{
+    color: #635551;
+  }
+  
+  /* Footer */
+  footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+  }
+  .l-sec p,a{
+    font-size: 14px;
+    color: #635551;
+  }
+  .para{
+    padding-left: 20px;
+  }
+  .r-sec{
+    padding: 0 20px;
+  }
+  .r-sec a{
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+    background-color: #ff5821;
+    padding: 10px 15px;
+    border-radius: 100%;
+    color: white;
+  }

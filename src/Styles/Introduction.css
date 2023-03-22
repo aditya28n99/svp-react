@@ -1,0 +1,12 @@
+
+
+#welcome-section{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 20px 0;
+  }
+  #welcome-heading{
+    padding: 11%;
+    font-size: 30px;
+    color: white;
+  }
